@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello everyone.
 this is file 1. 
+=======
+This is File 1.
+>>>>>>> c81954efb0bdf8a6f7532ea8133961cf984b8f55
